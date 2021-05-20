@@ -17,7 +17,7 @@
 ## 🏆 Github Status
 
 <img  src="https://github-readme-stats.vercel.app/api?username=itssukant&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itssukant&theme=dark)](https://git.io/streak-stats)
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=itssukant&theme=dark" >(https://git.io/streak-stats)
 <br>
 
 <div align="center">
